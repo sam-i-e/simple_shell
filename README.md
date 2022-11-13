@@ -19,5 +19,5 @@ GCC compiler.
 
 
 **Authors**:
-Myles Munroe
+Myles Munroe,
 Sam Opar
